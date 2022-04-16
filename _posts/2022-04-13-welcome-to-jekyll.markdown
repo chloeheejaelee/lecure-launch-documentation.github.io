@@ -18,5 +18,5 @@ categories: jekyll update
 
 {% highlight html linenos %}
 //set up code
-//d
+//
 {% endhighlight %}
